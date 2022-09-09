@@ -14,4 +14,7 @@ Soy desarrolladora Frontend, actualmente estudiante de desarrollo web full stack
 ![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Contacto:
-![html](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ayelenreinglestein@gmail.com
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayelen-reinglestein-a5371024b/)
+
+:email: ayelenreinglestein@gmail.com
