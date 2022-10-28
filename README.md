@@ -1,6 +1,6 @@
 # Hola, soy Ayelén.
 
-Soy desarrolladora Frontend, actualmente estudiante de desarrollo web full stack en Coderhouse y autodidacta. 
+Soy desarrolladora Frontend, actualmente estudiante de desarrollo web full stack en Coderhouse. 
 
 ---
 
