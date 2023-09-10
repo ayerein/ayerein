@@ -1,6 +1,6 @@
 # Hola, soy Ayelén.
 
-Soy desarrolladora Frontend, actualmente estudiante de desarrollo web full stack en Coderhouse. 
+Soy desarrolladora Frontend, creo aplicaciones y páginas web y actualmente estoy estudiando sobre programacón Backend. 
 
 ---
 
@@ -15,6 +15,6 @@ Soy desarrolladora Frontend, actualmente estudiante de desarrollo web full stack
 
 ### Contacto:
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayelen-reinglestein-a5371024b/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayerein/)
 
 :email: ayelenreinglestein@gmail.com
