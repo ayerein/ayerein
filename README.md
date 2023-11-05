@@ -1,6 +1,6 @@
 # Hola, soy Ayelén.
 
-Soy desarrolladora Frontend, creo aplicaciones y páginas web y actualmente estoy estudiando sobre programación Backend. 
+Soy desarrolladora Frontend, diseño aplicaciones y páginas web y actualmente estoy estudiando sobre programación Backend. 
 
 ---
 
